@@ -1,0 +1,9 @@
+{
+  "name": "conjure",
+  "dependencies": {
+    "@babel/preset-env": "^7.16.7",
+    "jest": "^27.4.7",
+    "puppeteer": "^13.0.1"
+  },
+  "license": "MIT"
+}
